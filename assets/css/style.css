@@ -82,3 +82,16 @@
             top: 17px;
             color: #E74C3C !important;
         }
+
+        .bg-image a{
+            height: 100px; width: 250px;
+            background-image: url("../img/navbar_menu.png");;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+        }
+
+        #unityContainer{
+            margin: auto;
+            display: inline-block;
+        }
